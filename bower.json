@@ -1,0 +1,16 @@
+{
+  "name": "galley_inside_a_slider",
+  "authors": [
+    "Efimov Maxim <maxefi@mail.ru>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fancyBox": "~2.1.5"
+  }
+}
